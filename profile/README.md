@@ -1,4 +1,4 @@
-![Logo](assets/DcvixLogoDarkBG.png)
+![Logo](../assets/DcvixLogoDarkBG.png)
 
 dcvix is an orchestrator for the Amazon DCV remote desktop system focused on simplicity, lightweight operation, and security.
 It enables small to medium-sized organizations to manage the creation of sessions and server pools.
